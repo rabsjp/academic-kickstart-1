@@ -68,7 +68,7 @@ enableGitInfo = false
   phone = "888 888 88 88"
   skype = "echo123"
   telegram = ""
-  keybase = ""  # Your keybase.io username.
+  keybase = "rabsjp"  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
