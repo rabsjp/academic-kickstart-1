@@ -7,9 +7,9 @@ math = true
 publication_types = ["1"]
 
 publication = "Review of Finance"
-publication_short = "In Review of Finance (2018)*"
+publication_short = "In Review of Finance"
 
-selected = true
+selected = false
 title = "Does competition affect truth-telling? An experiment with rating agencies, 2018"
 
 url_pdf = "https://www.dropbox.com/s/ccomeh727euf2vd/cra010117.pdf?dl=0"

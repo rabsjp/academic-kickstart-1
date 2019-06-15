@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "In *Games and Economic Behavior* (2019)"
 publication_short = ""
-selected = false
+selected = true
 title = "An experiment on the efficiency of bilateral exchange under incomplete markets, Games and Economic Behavior, 2019"
 url_pdf = "https://www.dropbox.com/s/al2rxs8txzi8qb5/Pecuniary.pdf?dl=0"
 
